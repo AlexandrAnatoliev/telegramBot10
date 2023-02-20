@@ -1,6 +1,6 @@
 # telegramBot10
 
-[Ru] эхо-бот на iogram - эхо‑бот будет получать от пользователя текстовое сообщение и возвращать его.
+[Ru] эхо-бот на aiogram - эхо‑бот будет получать от пользователя текстовое сообщение и возвращать его.
 
 Взят https://www.youtube.com/watch?v=viM3oWSUDQI&list=PLe-iIMbo5JOJm6DRTjhleHojroS-Bbocr&index=2
 

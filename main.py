@@ -1,5 +1,5 @@
 # TelegramBot10
-# эхо-бот на iogram
+# эхо-бот на aiogram
 # https://www.youtube.com/watch?v=viM3oWSUDQI&list=PLe-iIMbo5JOJm6DRTjhleHojroS-Bbocr&index=2
 
 from aiogram import Bot, Dispatcher, types, executor
