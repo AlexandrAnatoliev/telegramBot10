@@ -22,7 +22,6 @@ async def echo_upper(message: types.Message):  # объект message класс
     """
     answ = message.text.upper()  # сообщение пользователю в верхнем регистре
     if answ.count(' ',1, -2) < 2:  # возвращает сообщение пользователю, если число слов в предложении больше двух
-        print(answ.count(' ',1, -2))
         answ = "Слишком короткое сообщение"
     await message.answer(answ)  # написать сообщение ("текст" из входящего message, эмодзи тоже возвращает!)
 
